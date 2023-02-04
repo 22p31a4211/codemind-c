@@ -12,4 +12,3 @@ int S,T,B;
 scanf("%d%d%d",&S,&T,&B);
 cpkb(S,T,B);
 }
-
